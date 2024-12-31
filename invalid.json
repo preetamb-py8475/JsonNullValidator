@@ -1,0 +1,23 @@
+{
+	"user": {
+		"name": "John Doe",
+		"age": null,
+		"address": {
+			"city": null,
+			"zip": "10001"
+		}
+	},
+	"order": {
+		"id": "12345",
+		"items": [
+			{
+				"name": "Laptop",
+				"price": 1000
+			},
+			{
+				"name": "Mouse",
+				"price": null
+			}
+		]
+	}
+}
